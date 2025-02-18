@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates how to train an image classifier from scratch using a deep learning model. The training process follows a structured approach to ensure effective learning and performance improvement.
 
+![Alt text](training-scratch.png)
+![Alt text](training-model-cratch.png)
+
 ## Steps for Training a Neural Network
 The training process consists of the following steps:
 
