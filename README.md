@@ -67,8 +67,8 @@ pip install tensorflow torch numpy pandas matplotlib opencv-python
 4. Evaluate the model and fine-tune as necessary.
 5. Generate predictions and create a submission file.
 
-## License
-This project is intended for research and educational purposes only.
+## runing project with Jupyter Notebook
+training-from-scratch-vk.ipynb
 
 ## Acknowledgments
 - Inspired by standard deep learning training practices.
